@@ -11,7 +11,24 @@
 
     <artifactId>selenium-examples</artifactId>
 
+	<repositories>
+    <repository>
+      <id>deque</id>
+      <url>http://agora.dequecloud.com/artifactory/devtools-maven</url>
+    </repository>
+  </repositories>
+
     <dependencies>
+		<dependency>
+      <groupId>com.deque.html.axe-devtools</groupId>
+      <artifactId>selenium</artifactId>
+      <version>4.1.1</version>
+    </dependency>
+<dependency>
+      <groupId>com.deque.html.axe-devtools</groupId>
+      <artifactId>hamcrest</artifactId>
+      <version>4.1.1</version>
+    </dependency>
         <dependency>
             <groupId>com.saucelabs</groupId>
             <artifactId>saucebindings-junit5</artifactId>

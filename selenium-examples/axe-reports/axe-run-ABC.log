@@ -1,0 +1,210 @@
+Found 4 accessibility violations:
+1) Elements must have sufficient color contrast: https://dequeuniversity.com/rules/axe-devtools/4.1/color-contrast?application=axe-devtools-maven
+  a) [#header > .fl_left > p]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  b) [#topbar > .fl_left > p]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  c) [li:nth-child(1) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  d) [li:nth-child(1) > p:nth-child(3)]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  e) [li:nth-child(2) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  f) [li:nth-child(2) > p:nth-child(3)]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  g) [ul > .last > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  h) [.last > p:nth-child(3)]
+    Fix any of the following:
+      Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  i) [.footbox:nth-child(1) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  j) [.footbox:nth-child(2) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  k) [.footbox:nth-child(3) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  l) [.footbox:nth-child(4) > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+  m) [.last.footbox > h2]
+    Fix any of the following:
+      Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1
+
+
+2) Images must have alternate text: https://dequeuniversity.com/rules/axe-devtools/4.1/image-alt?application=axe-devtools-maven
+  a) [img[src$="small60-1\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  b) [img[src$="small60-2\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  c) [img[src$="small60-3\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  d) [img[src$="small174-1\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  e) [img[src$="small174-2\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  f) [img[src$="small174-3\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  g) [img[src$="small174-4\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+  h) [img[src$="small174-5\.jpg"]]
+    Fix any of the following:
+      Element does not have an alt attribute
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+3) Form elements must have labels: https://dequeuniversity.com/rules/axe-devtools/4.1/label?application=axe-devtools-maven
+  a) [input[type="text"]]
+    Fix any of the following:
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Form element does not have an implicit (wrapped) <label>
+      Form element does not have an explicit <label>
+      Element has no title attribute
+      Element has no placeholder attribute
+      Element's default semantics were not overridden with role="none" or role="presentation"
+
+
+4) Links must have discernible text: https://dequeuniversity.com/rules/axe-devtools/4.1/link-name?application=axe-devtools-maven
+  a) [li:nth-child(1) > a[href$="desktops\.php"]]
+    Fix all of the following:
+      Element is in tab order and does not have accessible text
+
+    Fix any of the following:
+      Element does not have text that is visible to screen readers
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+
+
+  b) [li:nth-child(2) > a[href$="desktops\.php"]]
+    Fix all of the following:
+      Element is in tab order and does not have accessible text
+
+    Fix any of the following:
+      Element does not have text that is visible to screen readers
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+
+
+  c) [li:nth-child(3) > a[href$="laptopsandnotebooks\.php"]]
+    Fix all of the following:
+      Element is in tab order and does not have accessible text
+
+    Fix any of the following:
+      Element does not have text that is visible to screen readers
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+
+
+  d) [li:nth-child(4) > a[href$="laptopsandnotebooks\.php"]]
+    Fix all of the following:
+      Element is in tab order and does not have accessible text
+
+    Fix any of the following:
+      Element does not have text that is visible to screen readers
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+
+
+  e) [.last > a[href$="laptopsandnotebooks\.php"]]
+    Fix all of the following:
+      Element is in tab order and does not have accessible text
+
+    Fix any of the following:
+      Element does not have text that is visible to screen readers
+      aria-label attribute does not exist or is empty
+      aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+      Element has no title attribute
+
+
+Executed Command: var callback = arguments[arguments.length - 1];var context = typeof arguments[0] === 'string' ? JSON.parse(arguments[0]) : arguments[0];context = context || document;var options = JSON.parse(arguments[1]);axe.run(context, options, function (err, results) {  {    if (err) {      results = {        violations: [],        passes: [],        url: '',        timestamp: new Date().toString(),        errorMessage: err.message      }    }    callback(results);  }});
+
